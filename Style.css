@@ -1,0 +1,40 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin: 50px auto;
+  width: 1000px;
+  height: 800px;
+  border: 5px dashed #180018;
+  color: white;
+}
+
+.uno{
+  font-family: monospace;
+  text-align: center;
+  padding: 40px;
+  background-color: #e885d5;
+  opacity: 1;
+  position: fixed;
+}
+
+.dos{
+  font-family: serif;
+  text-align: center;
+  padding: 40px;
+  background-color: #c900a3;
+  opacity: 1;
+
+}
+
+.tres{
+  font-family: serif;
+  text-align: center;
+  padding: 40px;
+  background-color: #950457;
+  opacity: 1;
+
+}
